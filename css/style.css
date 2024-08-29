@@ -177,6 +177,15 @@ a {
     max-width: 640px;
     margin: 0 auto;
     color: rgba(255, 255, 255, 0.5); }
+@media (max-width: 450px){
+    .site-hero{
+      background-image: url(/Portfolio/images/bg\ copy.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+    }
+  }
 
 .site-section {
   padding: 5em 0; }
